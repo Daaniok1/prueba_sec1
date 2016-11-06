@@ -1,7 +1,7 @@
 #Prueba 1 del sistema SEC con Django
 
-+User: Admin
-+Pass: Admin123
+* User: Admin
+* Pass: Admin123
 
 ##Requerimientos
 
@@ -21,9 +21,8 @@ Instalar globalmente MySQL
 ```sh
 sudo apt-get install mysql-server
 
-```sh
 sudo apt-get install python-dev
-```sh
+
 sudo apt-get install libmysqlclient-dev
 ```
 
